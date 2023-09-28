@@ -22,7 +22,7 @@ public class Pizza {
             this.price = 400;
 
 
-        //this.bill = "Base Price Of The Pizza: toString";
+        
     }
 
     public int getPrice(){
